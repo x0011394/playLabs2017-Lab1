@@ -1,0 +1,13 @@
+Step 1: Create a Repository
+	I.e Create one on github or create one in command line.
+		If you create on github.com website
+		you must clone it first.
+Step 2: Do your work make changes to it 
+	Then use git add -A for all
+	git add [specific-File] this will stop you adding unfinished or broken work 
+Step 3:
+	Git Commit
+Step 4:
+	Git push origin master
+	or whatever branchs you want 
+
